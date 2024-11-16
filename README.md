@@ -4,6 +4,7 @@ Qt相关资源
 
 - [qt\_resource](#qt_resource)
   - [Qt进阶之路](#qt进阶之路)
+  - [QtOpenGL](#qtopengl)
 
 [toc]
 
@@ -17,3 +18,6 @@ Qt相关资源
   - [Qt实用技能3-理解事件循环](https://zhuanlan.zhihu.com/p/72758194)
   - 
 
+## QtOpenGL
+
+[QtOpenGL](https://github.com/jaredtao/QtOpenGL)
